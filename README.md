@@ -14,10 +14,11 @@ This project presents an interactive Power BI dashboard analyzing Blinkit sales 
 ---
 
 ## 📈 Key Insights
-- Top-selling products and categories  
-- Revenue distribution across outlets  
-- Customer demand patterns  
-- Seasonal or time-based sales trends  
+- Developed interactive Power BI dashboard analyzing $1.20M sales across 9K SKUs and multiple outlet formats to identify revenue drivers for quick-commerce retail
+- Outlet performance analysis: Supermarket Type1 generated $787K (65.6% of total sales) while Tier 3 locations outperformed Tier 1 at $472K vs $336K — informing expansion strategy
+- Category & health trends: Fruits & Vegetables and Snack Foods led revenue; Low Fat items significantly outsold Regular, indicating health-conscious demand patterns
+- Operational insight: Newer outlets (est. 2018) showed ∼$200K sales spike vs $130K avg for older outlets — 54% higher performance from location strategy
+- Built DAX measures for KPIs: Total Sales, Avg Sales $140.99, Avg Rating 3.92/5; implemented slicers for Item Type, Outlet Size, and Location with drill-through reports
 
 ---
 
